@@ -19,6 +19,7 @@
 4.设置pod仓库
     pod setup
     (因为网速和那堵墙的关系，最好使用下载好的Github上的Cocoapods/Specs来进行设置，因为使用该命令也会下载这个库到~/.cocoapods/repos/master来进行设置，将下载下来的Specs文件夹改名为master放到repos文件夹下即可)
+    清华镜像：https://mirror.tuna.tsinghua.edu.cn/help/CocoaPods/
 
 5.测试
     【如果有版本号，则说明已经安装成功】
